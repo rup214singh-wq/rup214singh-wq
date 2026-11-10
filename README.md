@@ -36,4 +36,7 @@
 - Cybersecurity Labs
 
 ## Connect With Me
-- LinkedIn: Add your LinkedIn profile URL
+- LinkedIn: www.linkedin.com/in/
+rupesh-singh-19b55642b
+
+
