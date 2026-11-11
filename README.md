@@ -28,6 +28,7 @@
 - Network Security
 - Vulnerability Assessment
 - SOC Analysis
+- IOT
 
 ## Projects
 - IoT Monitoring System
